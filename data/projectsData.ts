@@ -8,9 +8,15 @@ interface Project {
 const projectsData: Project[] = [
   {
     title: 'Programista na wsi',
-    description: `Kanał na youtube, dzięki któremu robię porządek w głowie. Ten kanał to proces uwalniania się od natłoku myśli i robienia miejsca na nowe.`,
+    description: `Kanał YouTube, dzięki któremu robię porządek w głowie. Ten kanał to proces uwalniania się od natłoku myśli i robienia miejsca na nowe.`,
     imgSrc: '/static/images/logo.png',
     href: 'https://www.youtube.com/@programista-na-wsi',
+  },
+  {
+    title: 'Spirala nienawiści',
+    description: `Spirala nienawiści to pomysł na książkę, który powstał w mojej głowie po wielu nieoczekiwanych zdarzeniach w moim życiu.`,
+    imgSrc: '/static/images/booklogo.png',
+    href: '/tags/book',
   },
 ]
 
