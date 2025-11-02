@@ -14,9 +14,9 @@ const projectsData: Project[] = [
   },
   {
     title: 'Spirala nienawiści',
-    description: `Spirala nienawiści to pomysł na książkę, który powstał w mojej głowie po wielu nieoczekiwanych zdarzeniach w moim życiu.`,
-    imgSrc: '/static/images/booklogo.png',
-    href: '/tags/book',
+    description: `"Spirala nienawiści" to pomysł na książkę, który powstał w mojej głowie w wyniku wielu nieoczekiwanych zdarzeń w moim życiu.`,
+    imgSrc: '/static/images/book/logo.png',
+    href: '/tags/spirala-nienawisci',
   },
 ]
 
