@@ -13,12 +13,6 @@ const projectsData: Project[] = [
     href: 'https://www.youtube.com/@programista-na-wsi',
   },
   {
-    title: 'Spirala nienawiści',
-    description: `"Spirala nienawiści" to pomysł na książkę, który powstał w mojej głowie w wyniku wielu nieoczekiwanych zdarzeń w moim życiu.`,
-    imgSrc: '/static/images/book/logo.png',
-    href: '/tags/spirala-nienawisci',
-  },
-  {
     title: 'Wypożyczalnia sprzętu ogrodniczego i budowlanego',
     description: `Aby nie marnować zakupionego sprzętu potrzebnego w domu i ogrodzie, postanowiłem go wypożyczać.`,
     imgSrc: '/static/images/rental/garden-rental.jpeg',
